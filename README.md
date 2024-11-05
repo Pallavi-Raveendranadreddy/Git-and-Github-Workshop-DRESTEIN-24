@@ -1,8 +1,8 @@
 # Git-and-Github-Workshop-DRESTEIN-24
 ```
-NAME: Akkireddy Ruchitha Reddy  
-REGISTER NUMBER : 212221230004 
-DEPARTMENT : Artificial Intelligence and Data Science 
+NAME:VALASAREDDY PALLAVI  
+REGISTER NUMBER : 212221240059
+DEPARTMENT : Artificial Intelligence and  Machine Learning
 YEAR : IV
 ```
 ## 1. Setup and Initialize:
